@@ -1,0 +1,2 @@
+Welcome to the Git.
+By using git we can connect to the client to the remote and remote to the client.
